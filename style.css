@@ -69,3 +69,14 @@ h1 {
     color: #151240;
     font-size: 20px;
 }
+
+.input-container {
+    position: relative;
+}
+
+.input-container i {
+    position: absolute;
+    top: 37px;
+    left: 15px;
+    color: #917457;
+}
